@@ -2,21 +2,21 @@
     font-family: 'Lobster';
     font-style: normal;
     font-weight: normal;
-    src: local('Lobster'), url('../src/font/Lobster-Regular.ttf') format('truetype');
+    src: local('Lobster'), url('../font/Lobster-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Monda';
     font-style: normal;
     font-weight: normal;
-    src: local('Monda'), url('../src/font/Monda-Regular.ttf') format('truetype');
+    src: local('Monda'), url('../font/Monda-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Monda-Bold';
     font-style: normal;
     font-weight: bold;
-    src: local('Monda-Bold'), url('../src/font/Monda-Bold.ttf') format('truetype');
+    src: local('Monda-Bold'), url('../font/Monda-Bold.ttf') format('truetype');
 }
 
 body {
@@ -201,28 +201,28 @@ button:focus {
 }
 
 .seafood {
-    background-image: url('../src/img/series-seafood.jpg');
+    background-image: url('../img/series-seafood.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .meat {
-    background-image: url('../src/img/series-meat.jpg');
+    background-image: url('../img/series-meat.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .veg {
-    background-image: url('../src/img/series-veg.jpg');
+    background-image: url('../img/series-veg.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .fruit {
-    background-image: url('../src/img/series-fruit.jpg');
+    background-image: url('../img/series-fruit.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -283,21 +283,21 @@ button:focus {
 }
 
 .breakfast {
-    background-image: url('../src/img/breakfast.jpg');
+    background-image: url('../img/breakfast.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .lunch {
-    background-image: url('../src/img/lunch.jpg');
+    background-image: url('../img/lunch.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .dinner {
-    background-image: url('../src/img/dinner.jpg');
+    background-image: url('../img/dinner.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
